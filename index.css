@@ -1,0 +1,61 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;	
+	font-size: small;
+	font-family: Raleway, Roboto, Arial, sans-serif;
+	background: blue;	
+}
+
+header {
+	margin: 0 auto;	
+	width: 73.125%;
+	height: 1025px;	
+	background-image: url(images/background.png);
+	background-position:  center center;
+	background-position: cover;
+
+}
+
+.header_head {
+	width: 73.125%;
+	margin: auto;
+	padding-top: 90px;
+}
+
+.header_name {
+	width: 47.008547%;
+}
+
+
+.lines {
+	float: right;
+	border-color: #d2d3d8;
+	border-width: 3px;
+	border-style: solid;
+	padding: 10px 12px;
+}
+
+.hrone {
+
+	width: 550px;
+	margin: auto;
+	margin-top: 273px;
+}
+
+h1 {	
+	width: auto;
+	font-size: 45pt;
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 700;
+	letter-spacing: 9px;
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.hrtwo {
+	width: 550px;
+	margin: auto;	
+}
